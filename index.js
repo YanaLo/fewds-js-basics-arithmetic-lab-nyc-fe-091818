@@ -14,7 +14,7 @@ newID+=oldID;
 
 let ageIsValid=Number.isInteger(currentAge)
 
-let randomNumber= Math.random()*30;
+let randomNumber= Math.random()*40;
 
 let randomInteger= Math. floor(randomNumber);
 
